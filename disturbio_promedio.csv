@@ -1,0 +1,16 @@
+Site,Plot,Erosion,Goat feces,Cattle feces,Human roads,Cattle roads,Vegation extraction,Cattle grazing
+B,SiteB1,6,0,1,0,0,0.03,0.015
+B,SiteB2,7,0,4,161,0,0,0
+B,SiteB3,9,0,1,177,0,0,0
+E,SiteE1,12,4,1,276,0,0,0.88
+E,SiteE2,11,7,2,354,0,0.015,0.5
+E,SiteE3,13,9,5,361,1,0,0.114
+D,SiteD1,10,0,5,646,1,0,0.107
+D,SiteD2,6,0,7,273,1,0,0.169
+D,SiteD3,14,0,5,208,1,0,0.211
+A,SiteA1,3,0,1,253,0,0,0.006
+A,SiteA2,9,0,6,301,0,0,0.008
+A,SiteA3,3,0,3,95,0,0,0.048
+C,SiteC1,16,6,4,226,0,0,0.3
+C,SiteC2,14,4,0,0,1,0,0.09
+C,SiteC3,10,3,1,237,0,0,0
